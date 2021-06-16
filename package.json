@@ -1,0 +1,11 @@
+{
+  "name": "Toll-fee-calculator",
+  "version": "1.0.0",
+  "description": "Program for calculating toll fees",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "type": "module",
+  "author": "Henrik Hagström"
+}
